@@ -1,0 +1,7 @@
+class {{model.name.pascal}}
+  include DataMapper::Resource
+  
+  {{#details}}
+  property :{{detail.name.lower}}, {{detail.type}}{{#if detail.is.id}}, :key => true{{/if}}
+  {{/details}}
+end

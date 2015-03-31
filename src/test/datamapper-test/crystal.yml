@@ -1,0 +1,7 @@
+name: datamapper-test
+version: 0.1.0
+description: datamapper test
+
+generators:
+  datamapper:
+    version: latest

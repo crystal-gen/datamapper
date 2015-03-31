@@ -1,0 +1,9 @@
+details:
+  id:
+    type: 'id'
+  created:
+    type: 'date'
+  deleted:
+    type: 'date'
+  username:
+    type: 'string'
