@@ -1,6 +1,6 @@
 name: datamapper
 version: 0.1.0
-description: datamapper generator for ruby
+description: '[DataMapper](http://datamapper.org) generator for [Crystal](http://crystal.sh)'
 
 author:
   name: Chris Tate
